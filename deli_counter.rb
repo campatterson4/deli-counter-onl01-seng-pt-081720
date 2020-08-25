@@ -7,5 +7,5 @@ function currentLine(line){
    var linesNamesandNumbers = [];
    
    for(var i=0; i<line.length; i++) {
-     linesNamesandNumbers.push(i+1)
+     linesNamesandNumbers.push(i+1 + )
    }
