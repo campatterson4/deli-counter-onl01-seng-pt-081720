@@ -1,2 +1,4 @@
 var katzDeli = [];
-function currentLine(line)
+function currentLine(line){
+  if
+}
