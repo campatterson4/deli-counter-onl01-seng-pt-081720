@@ -6,3 +6,4 @@ function currentLine(line){
   }
    var linesNamesandNumbers = [];
    
+   for(var)
