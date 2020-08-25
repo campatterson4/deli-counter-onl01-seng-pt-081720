@@ -1,4 +1,4 @@
 var katzDeli = [];
 function currentLine(line){
-  if
+  if(!line)
 }
