@@ -1,2 +1,2 @@
 var katzDeli = [];
-function 
+function currentLine(line)
