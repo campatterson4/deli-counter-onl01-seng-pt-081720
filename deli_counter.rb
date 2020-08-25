@@ -17,7 +17,7 @@ end
 
 line(katz_deli)
 
-def line_simple(array) # this one follows the same mechanics as learn.co
+def line_simple(array) 
   current_line = "The simple line is currently:"
   array.each.with_index(1) do |value, indexemus|  
   # "each.with_index" is the method...must use "index"
